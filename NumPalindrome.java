@@ -7,7 +7,7 @@ class NumPalinderome
   int palindrome(int s)
   {
     int p;
-    System.out.println("hello");
+    System.out.println("hello world");
 
     return p;
   }
